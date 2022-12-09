@@ -1,0 +1,4 @@
+here are all the projects I did using the alura courses as a basis, most if not all are courses focused on data science, 
+for those who are interested in the platform, follow the link below:
+
+https://cursos.alura.com.br
